@@ -4,6 +4,8 @@
 
 ## 🚀 About Me
 
+ 💻 I'm a backend developer
+
 🎓 I'm currently pursuing a **Bachelor’s degree in Information Systems**.
 
 🌱 Currently improving my skills in **architetury**
